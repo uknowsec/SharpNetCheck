@@ -1,0 +1,5 @@
+D:\vscode\c_test\SharpNetCheck\SharpNetCheck\bin\Release\SharpNetCheck.exe.config
+D:\vscode\c_test\SharpNetCheck\SharpNetCheck\bin\Release\SharpNetCheck.exe
+D:\vscode\c_test\SharpNetCheck\SharpNetCheck\bin\Release\SharpNetCheck.pdb
+D:\vscode\c_test\SharpNetCheck\SharpNetCheck\obj\Release\SharpNetCheck.exe
+D:\vscode\c_test\SharpNetCheck\SharpNetCheck\obj\Release\SharpNetCheck.pdb
